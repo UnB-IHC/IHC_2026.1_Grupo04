@@ -1,41 +1,21 @@
-repo_url: https://github.com/vitorfleonardo/VerificAAA
-repo_name: VerificAAA
-
-site_url: https://github.com/vitorfleonardo/VerificAAA
-site_name: VerificAAA
-
-use_directory_urls: False
-
-nav:
-  - Início - VerificAAA: 'index.md'
-
-  - Desenvolvimento Web:
-    - Desenvolvimento: 'devWeb/non_text_content.md'
-
-  - Design:
-    - Design: 'design/design.md'
-  
-  - Geração de Conteúdo:
-    - Conteúdo: 'geracaoConteudo/conteudo.md'
-
-  - Gestão de Projetos:
-    - Gestão de Projetos: 'gestaoProjeto/gestaoProjeto.md'
-
-  - Ferramentas:
-    - Ferramentas de Acessibilidade: 'tools/ferramentas.md'
+site_name: IHC - Grupo 4
+site_description: Avaliação Crítica e Guia de Acessibilidade Digital (TRF1)
+site_author: Grupo 4 - UnB FGA
 
 theme:
-  name: readthedocs
-  locale: pt_BR
-  titles_only: true
-  logo: imagens/logo-verificaaa.png
-  favicon: imagens/logo-verificaaa.png
+  name: material
+  language: pt-BR
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
 
-markdown_extensions:
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: false
-      clickable_checkbox: true
-
-extra_css:
-  - stylesheets/extra.css
+nav:
+  - Início: index.md
+  - Guia de Acessibilidade:
+    - 1. Engenharia de UX: guia/ux.md
+    - 2. Marco Normativo: guia/normas.md
+    - 3. Ferramentas de Auditoria: guia/ferramentas.md
+    - 4. Checklist Interativo: guia/checklist.md
