@@ -7,6 +7,14 @@ Bem-vindo ao repositório oficial da documentação viva do **Grupo 4** para a d
 
 Este projeto tem como objetivo central a construção de um **Guia Prático de Acessibilidade Digital**. Nele, unimos os princípios teóricos de Fatores Humanos (Modelos Mentais e Carga Cognitiva), o rigor técnico internacional da WCAG 2.2 e a base legal brasileira fundamentada pela **ABNT NBR 17225:2025**.
 
+
+# ♿ Guia de Acessibilidade Digital e IHC - Grupo 4
+
+[![Acesse a Documentação Viva](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o_Viva-Acesse_Aqui-10b981?style=for-the-badge&logo=githubpages&logoColor=white)](https://unb-ihc.github.io/IHC_2026.1_Grupo04/)
+
+## 🌐 Link de Acesso Direto
+👉 **[Clique aqui para acessar o Guia de Acessibilidade Digital e o Checklist Interativo](https://unb-ihc.github.io/IHC_2026.1_Grupo04/)**
+
 ---
 
 ## 📋 A Ferramenta: Checklist Interativo de Auditoria
@@ -32,7 +40,7 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Rodrigo"/><br>
+      <img src="docs/img/rodrigo.jpg" width="120px;" style="border-radius: 50%;" alt="Foto do Rodrigo"/><br>
       <b>Rodrigo Henrique</b><br>
       <i>Líder / UX Architect</i>
     </td>
@@ -73,7 +81,6 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
   </tr>
 </table>
 
-*(Para atualizar as fotos, substitua o link `https://via.placeholder.com/120` pela URL ou caminho da foto de cada integrante no repositório).*
 
 ---
 
