@@ -67,7 +67,7 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
       <i>Design Empático e Personas</i>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Paulo Ferreira"/><br>
+      <img src="docs/img/149fba7c-400d-47da-9dcc-22ab1416add5.jpg" width="120px;" alt="Foto do Paulo Ferreira"/><br>
       <b>Paulo Ferreira Filho</b><br>
       <i>Analista de Semântica Web</i>
     </td>
