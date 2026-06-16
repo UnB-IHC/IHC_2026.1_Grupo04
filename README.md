@@ -45,7 +45,7 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
       <i>Líder / UX Architect</i>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Davi"/><br>
+      <img src="docs/img/Davi.jpeg" width="120px;" alt="Foto do Davi"/><br>
       <b>Davi Severiano</b><br>
       <i>Engenharia Normativa</i>
     </td>
@@ -55,14 +55,14 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
       <i>Infra. e Ferramentas</i>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Antônio"/><br>
+      <img src="docs/img/antonio.jpeg" width="120px;" alt="Foto do Antônio"/><br>
       <b>Antônio Lucas</b><br>
       <i>Auditoria UI / Acessibilidade</i>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Enzo"/><br>
+      <img src="docs/img/enzo.jpeg" width="120px;" alt="Foto do Enzo"/><br>
       <b>Enzo Menalli</b><br>
       <i>Design Empático e Personas</i>
     </td>
@@ -72,7 +72,7 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
       <i>Analista de Semântica Web</i>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Paulo Vitor"/><br>
+      <img src="docs/img/paulo.jpeg" width="120px;" alt="Foto do Paulo Vitor"/><br>
       <b>Paulo Vitor Gomes</b><br>
       <i>UX Researcher / Dados</i>
     </td>
