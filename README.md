@@ -50,7 +50,7 @@ A equipe foi estruturada de forma cross-funcional, onde cada integrante aplica a
       <i>Engenharia Normativa</i>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/120" width="120px;" alt="Foto do Daniel"/><br>
+      <img src="docs/img/Daniel.jpeg" width="120px;" alt="Foto do Daniel"/><br>
       <b>Daniel Lira</b><br>
       <i>Infra. e Ferramentas</i>
     </td>
