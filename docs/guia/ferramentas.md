@@ -43,12 +43,12 @@ Abaixo, apresenta-se a matriz comparativa e o microtutorial operacional das trê
 
 ## 4. Os Limites da Automação: O Fator Humano em IHC
 
-Embora as varreduras automatizadas sejam essenciais para o ganho de produtividade no ciclo de desenvolvimento, elas possuem limitações lógicas inerentes à sua natureza algorítmica. Do ponto de vista da Interação Humano-Computador (IHC), ferramentas automáticas conseguem detetar apenas uma parcela das barreiras reais de acessibilidade.
+Embora as varreduras automatizadas sejam essenciais para o ganho de produtividade no ciclo de desenvolvimento, elas possuem limitações lógicas inerentes à sua natureza algorítmica. Do ponto de vista da Interação Humano-Computador (IHC), ferramentas automáticas conseguem detectar apenas uma parcela das barreiras reais de acessibilidade.
 
 Um algoritmo é capaz, por exemplo, de verificar a presença estrutural do atributo textual alternativo (`alt`) numa tag de imagem (`<img>`), validando o código com sucesso. Contudo, a máquina é incapaz de julgar adequadamente o valor semântico, o contexto ou a clareza desse texto.
 
-Se o programador preencher o atributo como `alt="imagem123"`, uma ferramenta automatizada poderá aprovar o critério técnico, mas o utilizador que utiliza um leitor de ecrã continuará sem compreender a informação visual apresentada e enfrentará uma quebra significativa no seu modelo mental da interface.
+Se o programador preencher o atributo como `alt="imagem123"`, uma ferramenta automatizada poderá aprovar o critério técnico, mas o usuário que utiliza um leitor de tela continuará sem compreender a informação visual apresentada e enfrentará uma quebra significativa no seu modelo mental da interface.
 
-Por essa razão estrutural, a automação nunca substitui o julgamento analítico humano. Para garantir a eficácia, a eficiência e a real satisfação no uso do sistema, é indispensável que a equipa de engenharia complemente as varreduras automáticas com testes manuais e empíricos.
+Por essa razão estrutural, a automação nunca substitui o julgamento analítico humano. Para garantir a eficácia, a eficiência e a real satisfação no uso do sistema, é indispensável que a equipe de engenharia complemente as varreduras automáticas com testes manuais e empíricos.
 
-Isso inclui a navegação exclusiva por teclado, para auditar armadilhas de foco e ordem de tabulação, e o uso real de leitores de ecrã, como NVDA, VoiceOver ou TalkBack, validando de forma holística a verdadeira comunicabilidade da interface digital.
+Isso inclui a navegação exclusiva por teclado, para auditar armadilhas de foco e ordem de tabulação, e o uso real de leitores de tela, como NVDA, VoiceOver ou TalkBack, validando de forma holística a verdadeira comunicabilidade da interface digital.

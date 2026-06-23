@@ -4,13 +4,14 @@ Seja bem-vindo ao portal oficial do **Grupo 4** para a disciplina de **Interaç�
 
 Este espaço centraliza a nossa documentação viva e os artefatos analíticos desenvolvidos ao longo do semestre de 2026.1, sob a coordenação e orientação editorial da **Profa. Rejane Maria da Costa Figueiredo**.
 
+
 ---
 
 ## 🎯 Abordagem de Projeto: Foco 100% Analítico e Empírico
 
 Alinhado com a recente reestruturação do escopo prático da disciplina, o Grupo 4 eliminou por completo a camada de codificação e implementação de sistemas front-end. O nosso foco foi integralmente deslocado para a **Engenharia de Requisitos Analítica, o Design Empático e a Avaliação de Sistemas Interativos**.
 
-O objetivo deste ecossistema consiste em mitigar o estigma de que a acessibilidade digital constitui uma mera lista de checagem estética reativa. Sob a ótica de IHC, tratamos a acessibilidade como um **requisito arquitetural não funcional de primeira classe**, indispensável para alinhar os modelos mentais dos utilizadores à imagem lógica do sistema, eliminando barreiras sistémicas e reduzindo a carga cognitiva extrínseca em plataformas de interesse público.
+O objetivo deste ecossistema consiste em mitigar o estigma de que a acessibilidade digital constitui uma mera lista de checagem estética reativa. Sob a ótica de IHC, tratamos a acessibilidade como um **requisito arquitetural não funcional de primeira classe**, indispensável para alinhar os modelos mentais dos usuários à imagem lógica do sistema, eliminando barreiras sistémicas e reduzindo a carga cognitiva extrínseca em plataformas de interesse público.
 
 ---
 
@@ -27,7 +28,7 @@ Navegue pelo menu superior ou lateral para explorar os componentes do nosso **Gu
 
 ## 👥 Membros do Grupo 4
 
-A nossa equipa opera como uma *squad* analítica cross-funcional, na qual cada integrante lidera uma vertente especializada de IHC ao longo de toda a esteira de entregáveis do projeto:
+A nossa equipe opera como uma *squad* analítica cross-funcional, na qual cada integrante lidera uma vertente especializada de IHC ao longo de toda a esteira de entregáveis do projeto:
 
 * **Rodrigo Henrique Donato de Souza** (Líder / UX Architect & GitHub Pages Release)
 * **Paulo Ferreira de Lima Filho** (Analista de Semântica Web & Advisor Front-End)
