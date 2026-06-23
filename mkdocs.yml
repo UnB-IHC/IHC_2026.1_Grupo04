@@ -1,9 +1,10 @@
 site_name: IHC - Grupo 4
-site_description: Avaliação Crítica e Guia de Acessibilidade Digital (TRF1)
-site_author: Grupo 4 - UnB FGA
+site_description: Avaliação Crítica e Guia de Acessibilidade Digital
+site_author: Grupo 4 - UnB FCTE
 
 theme:
   name: material
+  language: pt-BR
   features:
     - navigation.top
     - navigation.tabs
@@ -17,3 +18,7 @@ nav:
     - 2. Marco Normativo: guia/normas.md
     - 3. Ferramentas de Auditoria: guia/ferramentas.md
     - 4. Checklist Interativo: guia/checklist.md
+
+plugins:
+  - search:
+      lang: pt
