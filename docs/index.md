@@ -4,7 +4,8 @@ Seja bem-vindo ao portal oficial do **Grupo 4** para a disciplina de **Interaç�
 
 Este espaço centraliza a nossa documentação viva e os artefatos analíticos desenvolvidos ao longo do semestre de 2026.1, sob a coordenação e orientação editorial da **Profa. Rejane Maria da Costa Figueiredo**.
 
-
+Link da nossa página do GitHub
+Visite o [repositório do GitHub](https://github.com/UnB-IHC/IHC_2026.1_Grupo04).
 ---
 
 ## 🎯 Abordagem de Projeto: Foco 100% Analítico e Empírico
